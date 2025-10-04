@@ -5,9 +5,9 @@
       fill: none;
       stroke: #fff;
       stroke-width: 2;
-      stroke-dasharray: 1000;
-      stroke-dashoffset: 1000;
-      animation: write 4s linear forwards;
+      stroke-dasharray: 3000;
+      stroke-dashoffset: 3000;
+      animation: write 7s linear forwards;
     }
 
     @keyframes write {
