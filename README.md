@@ -2,9 +2,13 @@
 <p align="center">
   <img src="./sachin.svg" alt="animated name"/>
 </p>
+
 ---
+
 <h3 align="center" >I write code, I solve problems, I ship solutions</h3>
 
+
+<br/> <br/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachins-devloper&label=Profile%20views&color=0e75b6&style=flat" alt="sachins-devloper" /> </p>
