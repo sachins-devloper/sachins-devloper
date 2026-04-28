@@ -57,7 +57,7 @@
 <h3 align="left">Tools & Technologies</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,react, docker,mysql,aws" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,reactnative,docker,mysql,aws" />
 </p>
 
 ---
