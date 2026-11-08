@@ -19,7 +19,7 @@
 
 ### 🙋‍♂️ About Me
 
-I’m a Software Engineer specializing in full-stack web and mobile development, with a focus on building practical AI-powered products. I enjoy turning complex ideas into scalable, user-friendly, production-ready solutions.
+I’m a Software Engineer specializing in full-stack web and mobile development, with a focus on building practical AI-powered products. I enjoy turning complex ideas into scalable, user-friendly applications.
 
 - 🔭 AI Fullstack Developer at Glimmora International
 - 🌱 Exploring LLM integrations, RAG systems, and prompt engineering
@@ -62,28 +62,26 @@ _October 2025 - February 2026_
 
 ### 🌟 Featured Projects
 
-#### 🧠 IntuitionX — AI-Powered Learning Platform
-An AI learning companion with chat assistance, adaptive quizzes, and personalized study planning.
+#### ⚡ [Jarvis — Autonomous Android AI Agent](https://github.com/sachins-devloper/Jarvis-ai-agent)
+A privacy-first Android assistant that combines an on-device or optional cloud AI engine with native device tools through a ReAct agent loop.
 
-- **Built with:** `React Native` · `NestJS` · `OpenAI API` · `LangChain` · `MongoDB` · `Redis` · `Docker`
-- **AI & learning:** RAG-powered answers and adaptive quiz experiences
-- **Platform features:** Personalized study plans, session management, and progress tracking
-- **Pilot:** 50+ beta users and a 4.2/5 satisfaction score
+- **Built with:** `Kotlin` · `Android SDK` · `Jetpack Compose` · `llama.cpp` · `Room`
+- **AI:** Local GGUF model inference, offline intent fallback, and optional OpenAI integration
+- **Android tools:** Voice interaction, contacts, media search, alarms, device controls, and persistent notes
 
-#### 💼 Wage Service Platform — On-Demand Service Marketplace
-A booking platform connecting customers with service providers, from discovery through service completion.
+#### 🛡️ [TruthGraph — AI Investigation Engine](https://github.com/sachins-devloper/Truth_graph)
+An evidence-first research tool that searches multiple engines, extracts and cross-checks claims, and presents source-backed reports with an interactive evidence graph.
 
-- **Built with:** `Node.js` · `Express` · `React Native` · `MongoDB` · `Socket.io` · `Google Maps API` · `Razorpay`
-- **Real-time experience:** Live booking status updates and notifications
-- **Security:** JWT authentication, refresh-token rotation, and role-based access control
-- **Performance:** Geospatial query optimizations for location-based service discovery
+- **Built with:** `Next.js` · `React` · `TypeScript` · `FastAPI` · `SerpApi` · `MongoDB`
+- **Investigation:** Multi-engine search planning, evidence extraction, and contradiction detection
+- **Experience:** Live SSE progress updates and an interactive graph connecting claims to sources
 
-#### 📦 GreenCart — E-Commerce Application
-An e-commerce project focused on a straightforward shopping experience and maintainable application structure.
+#### ✍️ [Skywriter — Air Writing](https://github.com/sachins-devloper/skywriter)
+A computer-vision application that tracks fingertip movements from a webcam to draw in the air and optionally recognize handwriting with OCR.
 
-- **Built with:** `React` · `Node.js` · `Express` · `MongoDB` · `JWT`
-- **Focus areas:** Product browsing, commerce flows, and responsive user experience
-- **Engineering:** Clear frontend/backend separation and secure API patterns
+- **Built with:** `Python` · `OpenCV` · `MediaPipe`
+- **Features:** Gesture-based drawing, smoothing and debouncing, erase/undo, and face-sentiment demo
+- **OCR:** Pluggable Tesseract, TrOCR, and PaddleOCR backends
 
 ---
 
@@ -128,9 +126,9 @@ Anna University Regional Campus, Coimbatore | Oct 2022 – July 2026
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/contact-sachins" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="36" /></a>
-  <a href="https://dev.to/sachins04815" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="36" /></a>
-  <a href="https://instagram.com/sachin_amudhu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="36" /></a>
+  <a href="https://linkedin.com/in/contact-sachins" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://dev.to/sachins04815" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
+  <a href="https://instagram.com/sachin_amudhu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 ---
@@ -138,15 +136,15 @@ Anna University Regional Campus, Coimbatore | Oct 2022 – July 2026
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachins-devloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0b1020&title_color=7dd3fc&icon_color=7dd3fc&text_color=e2e8f0" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sachins-devloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0b1020&title_color=7dd3fc&icon_color=7dd3fc&text_color=e2e8f0" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachins-devloper&theme=tokyonight&hide_border=true&background=0b1020&border=0d1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideNums=7dd3fc&currStreakNum=7dd3fc&dates=7dd3fc" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachins-devloper&theme=tokyonight&hide_border=true&background=0b1020&border=0d1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachins-devloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=7dd3fc&text_color=e2e8f0" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachins-devloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=7dd3fc&text_color=e2e8f0" alt="Top languages" />
 </p>
 
 <p align="center"><i>Building ideas that blend product thinking, engineering discipline, and AI-driven value.</i></p>
